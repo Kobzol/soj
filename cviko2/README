@@ -1,0 +1,3 @@
+1) Součet a průměr 32bitového a 8bitového pole
+2) Vynásobení všech prvků v poli globální proměnnou (32bit + 8bit)
+3) Bitový posun všech prvků v poli o globální proměnnou (32bit + 8bit)
