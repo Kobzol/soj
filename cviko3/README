@@ -1,0 +1,6 @@
+1. Převeďte v řetězci písmena na malá.
+2. Vypočtěte aritmetický průměr kladných a záporných čísel.
+3. Nahraďte v řetězci číslice požadovaným znakem.
+	void nahrada(char* str, char znak);
+4. Počet lichých čísel v poli.
+	int pocet_lichych(int* pole, int n);
