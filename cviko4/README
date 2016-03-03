@@ -1,0 +1,6 @@
+1) MOVS
+	void memcpy(void* dest, void* src3, int l);
+	4 pripady (pred, po, prekryv pred, prekryv po).
+2) Odstraneni pozadovaneho znaku z retezce.
+	lodsb/stosb
+3) Uprave str2upper, omezte pocet podminenych skoku.
