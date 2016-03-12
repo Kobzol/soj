@@ -1,0 +1,4 @@
+1. Nalezení řetězce v řetězci - jako funkce strstr v jazyce C. Při implementaci použijte již dříve implementovanou funkci strcmp a tu volejte. Porovnejte chování vaší implementace a funkce strstr. 
+2. Nalezněte v poli čísel int max. a min. hodnotu. Využijte instrukci cmov.. Výstupem jsou dvě návratové hodnoty.
+3. Převeďte řetězec na číslo, podobně jako funkce atoi. Klasický algoritmus je:
+  {cislo = cislo * 10 + str[ i ] - '0'} přes všechny číslice. Nepotřebujete tedy mocninu!
