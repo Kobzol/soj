@@ -1,0 +1,5 @@
+1) V 64-bitovém režimu naimplementujte funkci
+__int128 deleni(__int128 delenec, long delitel, long* zbytek);
+
+2) Pomoci deleni prevedte __int128 na retezec
+void int128_to_str(__int128 n, char* cislo);
